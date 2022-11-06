@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e42e8575-3da6-4a33-a577-8d84161d0dbb" name="Changes" comment="commit.">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice01/Q01_Variable_FahrenheitToCelsius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice01/Q02_Substring_AdSoyad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice01/Q03_RegexQuantifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice01/Q04_IfStatement_DikUcgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice01/Q05_DoWhile_TahminOyunu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice02/Q01_If_Diskriminant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice02/Q02_For_Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice02/Q03_For_EuroDolarToplami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice02/Q04_NestedFor_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice02/Q05_Arrays_ElementSil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice02/Q06_Arrays_BelirliToplamiVerenIkililer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice03/Q01_Arrays_IsaretDegistir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice03/Q02_Ascii_AdiniYaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice03/Q03_Arrays_IkinciMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice03/Q04_DoWhile_TopunSicramasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice03/Q05_MultiArray_AyniIndexTop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice03/Q06_MountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Butce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q01_Switch_AyGunleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q02_List_EkleCikar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q03_Arrays_OrtalamadanBuyuk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q04_Arrays_OrtakElemanlar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q05_StringBuilderPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q06_Static_Butce_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q07_Variable_ArtirmaAzaltma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Hacim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/HesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Q01_Ascii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Q02_Nestedfor_ucgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Q03_Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Q04_Varargs_HesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Q05_Market_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Geometri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/KarePrizma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Kitap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Koni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Q01_RastgeleSayiMatriksi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Q03_Array_Simetrik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Q04_Kutuphane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Q05_Inheritance_HacimHesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Q2_RastgeleSifreOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Silindir.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2GMMTwwmkn0B3eIAbvffCJeBruK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ademkeskin/Desktop/IdeaProjects/AdvancedPractice&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CodeWithMe&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.30400783&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceAdvanced.TekrarDene.Deneme" />
+      <module name="AdvancedPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceAdvanced.TekrarDene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Deneme" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e42e8575-3da6-4a33-a577-8d84161d0dbb" name="Changes" comment="" />
+      <created>1666194011720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666194011720</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="commit." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
