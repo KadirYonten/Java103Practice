@@ -5,58 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e42e8575-3da6-4a33-a577-8d84161d0dbb" name="Changes" comment="commit.">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvancedPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice01/Q01_Variable_FahrenheitToCelsius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice01/Q02_Substring_AdSoyad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice01/Q03_RegexQuantifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice01/Q04_IfStatement_DikUcgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice01/Q05_DoWhile_TahminOyunu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice02/Q01_If_Diskriminant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice02/Q02_For_Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice02/Q03_For_EuroDolarToplami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice02/Q04_NestedFor_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice02/Q05_Arrays_ElementSil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice02/Q06_Arrays_BelirliToplamiVerenIkililer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice03/Q01_Arrays_IsaretDegistir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice03/Q02_Ascii_AdiniYaz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice03/Q03_Arrays_IkinciMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice03/Q04_DoWhile_TopunSicramasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice03/Q05_MultiArray_AyniIndexTop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice03/Q06_MountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Butce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q01_Switch_AyGunleri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q02_List_EkleCikar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q03_Arrays_OrtalamadanBuyuk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q04_Arrays_OrtakElemanlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q05_StringBuilderPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q06_Static_Butce_Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice04/Q07_Variable_ArtirmaAzaltma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Hacim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/HesapMakinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Q01_Ascii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Q02_Nestedfor_ucgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Q03_Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Q04_Varargs_HesapMakinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice05/Q05_Market_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Geometri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/KarePrizma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Kitap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Koni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Q01_RastgeleSayiMatriksi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Q03_Array_Simetrik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Q04_Kutuphane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Q05_Inheritance_HacimHesaplama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Q2_RastgeleSifreOlusturma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice06/Silindir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice07/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice07/Q01_ArrayToStringNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice07/Q02_UzunKelime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice07/Q03_AtbashCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice07/Q04_Exception_Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice07/Q05_Exception_Throw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice07/Q06_Encapsulation_BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice08/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice08/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice08/Q01_ForEach_SayiUcgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice08/Q02_MarketGunlukGelir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice08/Q03_StringRakamlarToplami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice08/Q04_Inheritance_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice08/Q05_Array_HarfKullanimSayisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice08/Q06_List_RastgeleSayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q01_VarArgs_NotOrtalamasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q02_Map_UrunFiyatilariniTopla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q02_Map_UrunFiyatilariniToplaEntrySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q03_AbstractionAlanHesaplama/Alan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q03_AbstractionAlanHesaplama/Dikdortgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q03_AbstractionAlanHesaplama/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q03_AbstractionAlanHesaplama/Ucgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q04_MaasHesaplama_Interface/MaasArtir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q04_MaasHesaplama_Interface/MaasHesapla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q04_MaasHesaplama_Interface/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q04_MaasHesaplama_Interface/Vergi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q05_MapAdSoyad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice09/Q06_KelimeleriSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice10/Q01_Map_KeeyYazdir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice10/Q02_Faktoriyel_LoopKullanmadan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice10/Q03_TextOkuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice10/Q04_Random_AdOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice10/Q05_VarArgs_IlkiHaricTopla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice10/Q06_HizTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceAdvanced/practice10/Q07_ConvertThreeDigitNumberToWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +54,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -101,12 +87,17 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ademkeskin/Desktop/IdeaProjects/AdvancedPractice&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ademkeskin/IdeaProjects/AdvancedPractice&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;CodeWithMe&quot;,
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.30400783&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="practiceAdvanced.practice09" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Deneme">
     <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practiceAdvanced.TekrarDene.Deneme" />
       <module name="AdvancedPractice" />
@@ -120,8 +111,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q01_Map_KeeyYazdir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceAdvanced.practice10.Q01_Map_KeeyYazdir" />
+      <module name="AdvancedPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceAdvanced.practice10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceAdvanced.practice09.Q03_AbstractionAlanHesaplama.Runner" />
+      <module name="AdvancedPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceAdvanced.practice09.Q03_AbstractionAlanHesaplama.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q01_Map_KeeyYazdir" />
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Deneme" />
       </list>
     </recent_temporary>
@@ -135,6 +154,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666194011720</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit.">
+      <created>1667745601920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667745601920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
