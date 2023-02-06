@@ -1,0 +1,34 @@
+﻿%[argument_index$][flags][width][.precision]conversion
+   square brackets is for optional format.
+   
+   conversion specifying how to display the argument:
+     'd': decimal integer 
+     'o': octal integer
+     'x': hexadecimal integer
+     
+     'f': decimal notation for float
+     'g': scientific notation (with an exponent) for float 
+     'a': hexadecimal with an exponent for float
+
+     'c': for a character
+     's': for a string.
+     'b': for a boolean value, so its output is "true" or "false".
+     'h': output the hashcode of the argument in hexadecimal form.
+     'n': "%n" has the same effect as "\n".
+                                   
+      argument_index: "1$" refers to the first argument, 
+                      "2$" refers to the second argument, 
+                      '<' followed by $ indicate that the argument should be the same as 
+                      that of the previous format specification                    
+      
+      flags: '-' left-justified
+             '^' and uppercase
+             '+' output a sign for numerical values.
+             '0' forces numerical values to be zero-padded.                                   
+      
+      width: Specifies the field width for outputting the argument and represents the minimum number of 
+             characters to be written to the output.
+      
+      precision: used to restrict the output depending on the conversion. 
+                 It specifies the number of digits of precision when 
+                 outputting floating-point values.

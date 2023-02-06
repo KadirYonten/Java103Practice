@@ -1,0 +1,94 @@
+  String input = ....
+   try {
+       int x = Integer.parseInt(input);
+       System.out.println(x);
+   }
+   catch(NumberFormatException nFE) {
+       System.out.println("Not an Integer");
+  }
+.......................................................................
+
+
+
+public boolean isStrNumber(String str){
+          try{
+              Integer.parseInt(str);
+          } catch(NumberFormatException nfe) {
+              return false;
+          }
+              return true;
+          } 
+
+
+............................................................................
+
+import javax.swing.*;
+public class IntegerInput
+{
+public IntegerInput()
+{
+do
+{
+String input = JOptionPane.showInputDialog(null,"Enter an Integer: ","Input Dialog", JOptionPane.OK_OPTION);
+if(input == null)
+break;
+if(!isInteger(input))
+{
+JOptionPane.showMessageDialog(null… "Please Enter an Integer Value");
+}
+else
+{
+JOptionPane.showMessageDialog(null… "You have entered an Integer: " + input);
+}
+}
+while (true);
+}
+
+public boolean isInteger(String input)
+{
+boolean retVal = false;
+try
+{
+Integer.parseInt(input);
+retVal = true;
+}
+catch (Exception e) {}
+return retVal;
+}
+public static void main(String[] args)
+{
+new IntegerInput();
+}
+}
+
+................................................................
+
+String input = "";<br />
+do<br />
+{<br />
+  System.out.print("insert a whole number: ");<br />
+  input = bufferedReader.readLine();<br />
+} while (!Integer.isInteger(input));<br />
+int number = Integer.parseInt(input);
+
+....................................................................
+
+String input = "";<br />
+int number = 0;<br />
+boolean error = false;<br />
+do<br />
+{<br />
+  System.out.print("insert a whole number: ");<br />
+  input = bufferedReader.readLine();<br />
+  error = false;<br />
+  try<br />
+  {<br />
+    number = Integer.parseInt();<br />
+  }<br />
+  catch(NumberFormatException ex)<br />
+  {<br />
+    error = true;<br />
+  }<br />
+} while (error);
+
+..............................................................
